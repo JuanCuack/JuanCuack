@@ -1,60 +1,70 @@
-<h1 align="center">Hola, soy Juan Useche 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11eeff&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Bienvenidos;Soy+Juan+Useche;JuanCuack;JuanCuack003;Estudiante+de+Ingenier%C3%ADa;Programador+Python" alt="Typing SVG" />
+  </a>
+</h1>
+
 <p align="center">
-  <strong>Estudiante de Ingeniería de Software en la UdeC | Apasionado por Python y POO</strong>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Programming.gif" width="30px">
+  <strong>Estudiante de Ingeniería de Software | UdeC</strong>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Hello.gif" width="30px">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanCuack&color=11eeff&style=flat-square&label=VISTAS+AL+PERFIL" alt="JuanCuack views" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Working-On.gif" width="30px">
+  <strong>Apasionado por la creación de soluciones con Python y POO</strong>
 </p>
+
+---
 
 ### 🚀 Sobre Mí
-- 🎓 Actualmente en **3er semestre** de Ingeniería de Software en la **Universidad de Cundinamarca**.
-- 🎯 Enfocado en mis estudios pero abierto a **oportunidades laborales** en desarrollo.
-- 🐍 Especializándome en **Python** y creación de herramientas con **Tkinter**.
-- 📚 Subiendo mis proyectos académicos paso a paso para construir mi portafolio.
-- 💬 Pregúntame sobre: **POO, Tkinter y lógica de programación**.
-- 🎮 Discord: `juancuack`
+* <img src="https://img.icons8.com/color/48/colombia.png" width="20px"> **Orgullosamente Colombiano.**
+* 🎓 Actualmente en **3er semestre** de Ingeniería de Software en la **Universidad de Cundinamarca**.
+* 🎯 Enfocado en mis estudios pero interesado en **oportunidades laborales**.
+* 🐍 Especializándome en **Python** y desarrollo de interfaces con **Tkinter**.
+* 📚 Subiendo progresivamente mis proyectos para fortalecer mi portafolio.
+* 💬 Puedo orientarte en: **POO, Tkinter** y lógica para transicionar a **Flutter**.
 
 ---
-
-### 📊 Estadísticas de GitHub (Estilo Cyberpunk)
+<h2 align="center">📊 Mis Estadísticas</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanCuack&show_icons=true&theme=tokyonight&hide_border=false&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCuack&layout=compact&theme=tokyonight&hide_border=false&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCuack&theme=tokyonight&hide_border=false&background=1a1b27&ring=11eeff&fire=ff9f43&stroke=11eeff&locale=es" width="43.7%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCuack&layout=compact&theme=tokyonight&hide_border=false&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27&locale=es" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCuack&theme=tokyonight&hide_border=false&background=1a1b27&ring=11eeff&fire=ff9f43&stroke=11eeff" width="97%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=JuanCuack&show_icons=true&theme=tokyonight&hide_border=false&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27&locale=es" width="90%" />
 </p>
 
 ---
-
 ### 🛠️ Tecnologías que manejo
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www-hpcalc-org.translate.goog/details/8938?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/100/hp.png" alt="HP Prime Connectivity Kit" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55"/></a>
+</p>
+
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JuanCuack" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/glyph-neue/100/ffffff/github.png" alt="GitHub" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/100/visual-studio-code-2019.png" alt="VS Code" width="55" height="55"/></a>
 </p>
 
 ---
-
 ### 📫 Conecta conmigo
-<p align="left">
-  <a href="mailto:psnjuan2019@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
-  <a href="https://www.instagram.com/juancuack003" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
-  </a>
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=psnjuan2019@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/100/gmail-new.png" alt="Gmail" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/juancuack003/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/100/instagram-new.png" alt="Instagram" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/752327058310299648" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/100/discord--v1.png" alt="Discord" width="55" height="55"/></a>
 </p>
-
-<br />
 
 > *"El código es arte, y yo estoy aprendiendo a pintar."* 
