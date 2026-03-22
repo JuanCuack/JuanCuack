@@ -73,9 +73,8 @@
 ### 🧠 Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/JuanCuack/DarkQuiz-Engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanCuack&repo=DarkQuiz-Engine&theme=tokyonight&show_icons=true&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" />
-  </a>
+  <a href="https://github.com/JuanCuack/CodeShift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanCuack&repo=CodeShift&theme=tokyonight&show_icons=true&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" width="400" /></a>
+  <a href="https://github.com/JuanCuack/DarkQuiz-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanCuack&repo=DarkQuiz-Engine&theme=tokyonight&show_icons=true&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" width="400" /></a>
 </p>
 
 ---
@@ -83,12 +82,12 @@
 <h2 align="center">👾 GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCuack&theme=tokyonight&hide_border=false&background=1a1b27&ring=11eeff&fire=ff9f43&stroke=11eeff&locale=es&cache_seconds=300&v=1" width="43.7%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCuack&layout=compact&theme=tokyonight&hide_border=false&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27&locale=es&cache_seconds=300&v=1" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCuack&theme=tokyonight&hide_border=false&background=1a1b27&ring=11eeff&fire=ff9f43&stroke=11eeff&locale=es&cache_seconds=0&v=final_fix_v2" width="43.7%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCuack&layout=compact&theme=tokyonight&hide_border=false&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27&locale=es&cache_seconds=0&v=final_fix_v2" width="45%" />
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=JuanCuack&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=11eeff&icon_color=ff9f43&text_color=11eeff&locale=es&count_private=true&include_all_commits=true&cache_seconds=300&v=1" width="90%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=JuanCuack&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=11eeff&icon_color=ff9f43&text_color=11eeff&locale=es&count_private=true&include_all_commits=true&cache_seconds=0" width="90%" />
 </p>
 
 <p align="center">
