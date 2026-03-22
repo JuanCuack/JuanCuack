@@ -5,39 +5,62 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Programming.gif" width="30px">
   <strong>Estudiante de Ingeniería de Software | UdeC</strong>
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Hello.gif" width="30px">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Working-On.gif" width="30px">
-  <strong>Apasionado por la creación de soluciones con Python y POO</strong>
+  <strong>Desarrollador enfocado en soluciones con Python y Arquitectura POO</strong>
 </p>
 
 ---
 
+<p align="right">
+  <img src="https://images.steamusercontent.com/ugc/2421319307286993522/DBCDE752917E8703B62A2C1AFE7B337CB1CD14FD/" align="right" width="280" style="margin-left: 20px;">
+</p>
+
 ### 🚀 Sobre Mí
-* <img src="https://img.icons8.com/color/48/colombia.png" width="20px"> **Orgullosamente Colombiano.**
-* 🎓 Actualmente en **3er semestre** de Ingeniería de Software en la **Universidad de Cundinamarca**.
-* 🎯 Enfocado en mis estudios pero interesado en **oportunidades laborales**.
+
+* <img src="https://img.icons8.com/color/48/colombia.png" width="22" height="22"> **Orgullosamente Colombiano.**
+* 🎓 Actualmente cursando **3er semestre** de Ingeniería de Software en la **UdeC**.
 * 🐍 Especializándome en **Python** y desarrollo de interfaces con **Tkinter**.
-* 📚 Subiendo progresivamente mis proyectos para fortalecer mi portafolio.
+* 🤝 Abierto a colaborar en proyectos desafiantes y oportunidades laborales.
+* 📁 Subiendo progresivamente mis proyectos para fortalecer mi portafolio.
 * 💬 Puedo orientarte en: **POO, Tkinter** y lógica para transicionar a **Flutter**.
 
+<br clear="right">
+
+### 📫 Conecta conmigo
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=psnjuan2019@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/100/gmail-new.png" alt="Gmail" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/752327058310299648" target="_blank">
+    <img src="https://img.icons8.com/color/100/discord--v1.png" alt="Discord" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/juancuack003/" target="_blank">
+    <img src="https://img.icons8.com/fluency/100/instagram-new.png" alt="Instagram" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@JuanCuack" target="_blank">
+    <img src="https://img.icons8.com/color/100/youtube-play.png" alt="YouTube" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitch.tv/xxjuancrack003xx" target="_blank">
+    <img src="https://img.icons8.com/fluency/100/twitch.png" alt="Twitch" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@juancuack003" target="_blank">
+    <img src="https://img.icons8.com/color/100/tiktok--v1.png" alt="TikTok" width="60" height="60"/></a>
+</p>
+
 ---
-<h2 align="center">📊 Mis Estadísticas</h2>
+
+<h2 align="center">👾 GitHub</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCuack&theme=tokyonight&hide_border=false&background=1a1b27&ring=11eeff&fire=ff9f43&stroke=11eeff&locale=es" width="43.7%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCuack&layout=compact&theme=tokyonight&hide_border=false&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27&locale=es" width="45%" />
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=JuanCuack&show_icons=true&theme=tokyonight&hide_border=false&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27&locale=es" width="90%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=JuanCuack&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=11eeff&icon_color=ff9f43&text_color=11eeff&locale=es&count_private=true&include_all_commits=true" width="90%" />
 </p>
 
 ---
-### 🛠️ Tecnologías que manejo
+
+### 🔋Mi Stack Tecnológico
 <p align="center">
   <a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,15 +79,6 @@
     <img src="https://img.icons8.com/color/100/visual-studio-code-2019.png" alt="VS Code" width="55" height="55"/></a>
 </p>
 
----
-### 📫 Conecta conmigo
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=psnjuan2019@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/fluency/100/gmail-new.png" alt="Gmail" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/juancuack003/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/fluency/100/instagram-new.png" alt="Instagram" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/752327058310299648" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/100/discord--v1.png" alt="Discord" width="55" height="55"/></a>
+  <i>"El código es arte, y yo estoy aprendiendo a pintar."</i>
 </p>
-
-> *"El código es arte, y yo estoy aprendiendo a pintar."* 
