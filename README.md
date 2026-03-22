@@ -14,11 +14,11 @@
 
 ---
 
+### 🚀 Sobre Mí
+
 <p align="right">
   <img src="https://images.steamusercontent.com/ugc/2421319307286993522/DBCDE752917E8703B62A2C1AFE7B337CB1CD14FD/" align="right" width="280" style="margin-left: 20px;">
 </p>
-
-### 🚀 Sobre Mí
 
 * <img src="https://img.icons8.com/color/48/colombia.png" width="22" height="22"> **Orgullosamente Colombiano.**
 * 🎓 Actualmente cursando **3er semestre** de Ingeniería de Software en la **UdeC**.
@@ -48,19 +48,8 @@
 
 ---
 
-<h2 align="center">👾 GitHub</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCuack&theme=tokyonight&hide_border=false&background=1a1b27&ring=11eeff&fire=ff9f43&stroke=11eeff&locale=es" width="43.7%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCuack&layout=compact&theme=tokyonight&hide_border=false&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27&locale=es" width="45%" />
-</p>
+### 🔋 Mi Stack Tecnológico
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=JuanCuack&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=11eeff&icon_color=ff9f43&text_color=11eeff&locale=es&count_private=true&include_all_commits=true" width="90%" />
-</p>
-
----
-
-### 🔋Mi Stack Tecnológico
 <p align="center">
   <a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -89,7 +78,18 @@
   </a>
 </p>
 
-<br clear="right">
+---
+
+<h2 align="center">👾 GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCuack&theme=tokyonight&hide_border=false&background=1a1b27&ring=11eeff&fire=ff9f43&stroke=11eeff&locale=es" width="43.7%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCuack&layout=compact&theme=tokyonight&hide_border=false&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27&locale=es" width="45%" />
+</p>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=JuanCuack&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=11eeff&icon_color=ff9f43&text_color=11eeff&locale=es&count_private=true&include_all_commits=true" width="90%" />
+</p>
 
 <p align="center">
   <i>"El código es arte, y yo estoy aprendiendo a pintar."</i>
