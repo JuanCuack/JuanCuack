@@ -79,6 +79,18 @@
     <img src="https://img.icons8.com/color/100/visual-studio-code-2019.png" alt="VS Code" width="55" height="55"/></a>
 </p>
 
+---
+
+### 🧠 Proyectos Destacados
+
+<p align="center">
+  <a href="https://github.com/JuanCuack/DarkQuiz-Engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanCuack&repo=DarkQuiz-Engine&theme=tokyonight&show_icons=true&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" />
+  </a>
+</p>
+
+<br clear="right">
+
 <p align="center">
   <i>"El código es arte, y yo estoy aprendiendo a pintar."</i>
 </p>
