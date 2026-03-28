@@ -1,0 +1,33 @@
+name: TokyoNight Widgets Sync
+
+on:
+  schedule:
+    - cron: '0 * * * *' 
+  workflow_dispatch: 
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Instalar Dependencias
+        run: pip install requests
+        
+      - name: Ejecutar Script de Sincronización
+        run: python update_widgets.py
+        
+      - name: Guardar Cambios en el Repositorio
+        run: |
+          git config --global user.name 'JuanCuack-Bot'
+          git config --global user.email 'bot@juancuack.dev'
+          git add assets/*.svg
+          git commit -m "style: auto-update widgets (Anti-Fail Mirror)" || exit 0
+          git push
