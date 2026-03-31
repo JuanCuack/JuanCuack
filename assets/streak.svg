@@ -40,14 +40,14 @@
                 <!-- Total Contributions label -->
                 <g transform='translate(82.5, 84)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#70A5FD' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.7s'>
-                        Contribuciones Totales
+                        Total Contributions
                     </text>
                 </g>
 
                 <!-- Total Contributions range -->
                 <g transform='translate(82.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#38BDAE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.8s'>
-                        24 feb - Presente
+                        Feb 24 - Present
                     </text>
                 </g>
             </g>
@@ -55,14 +55,14 @@
                 <!-- Current Streak label -->
                 <g transform='translate(247.5, 108)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#BF91F3' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        Racha Actual
+                        Current Streak
                     </text>
                 </g>
 
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#38BDAE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        30 mar
+                        Mar 30
                     </text>
                 </g>
 
@@ -95,14 +95,14 @@
                 <!-- Longest Streak label -->
                 <g transform='translate(412.5, 84)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#70A5FD' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.3s'>
-                        Racha Más Larga
+                        Longest Streak
                     </text>
                 </g>
 
                 <!-- Longest Streak range -->
                 <g transform='translate(412.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#38BDAE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.4s'>
-                        21 mar - 26 mar
+                        Mar 21 - Mar 26
                     </text>
                 </g>
             </g>

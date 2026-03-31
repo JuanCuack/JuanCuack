@@ -3,7 +3,7 @@ import os
 
 # URLs con instancias estables (mirror), idioma español y estética TokyoNight
 WIDGETS = {
-    "streak.svg": "https://github-readme-streak-stats.herokuapp.com/?user=JuanCuack&theme=tokyonight&hide_border=false&background=1a1b27&ring=11eeff&fire=ff9f43&stroke=11eeff&locale=es",
+    "streak.svg": "https://github-readme-streak-stats.herokuapp.com/?user=JuanCuack&theme=tokyonight&hide_border=false&background=1a1b27&ring=11eeff&fire=ff9f43&stroke=11eeff",
     
     "languages.svg": "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuanCuack&theme=tokyonight&hide_border=false&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27&locale=es&langs_count=5",
     
