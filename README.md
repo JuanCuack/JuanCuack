@@ -86,11 +86,11 @@
 
 <p align="center">
   <img src="./assets/streak.svg" width="43.7%"/>
-  <img src="./assets/langs.svg" width="45%" />
+  <img src="./assets/languages.svg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./assets/stats.svg" width="90%" />
+  <img src="./assets/statistics.svg" width="90%" />
 </p>
 
 <p align="center">
