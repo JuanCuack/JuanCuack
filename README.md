@@ -16,16 +16,15 @@
 
 ### 🚀 Sobre Mí
 
-<p align="right">
-  <img src="https://images.steamusercontent.com/ugc/2421319307286993522/DBCDE752917E8703B62A2C1AFE7B337CB1CD14FD/" align="right" width="280" style="margin-left: 20px;">
-</p>
+<img src="https://images.steamusercontent.com/ugc/2421319307286993522/DBCDE752917E8703B62A2C1AFE7B337CB1CD14FD/" align="right" width="250" style="margin-left: 20px; margin-bottom: 15px;">
 
-* <img src="https://img.icons8.com/color/48/colombia.png" width="22" height="22"> **Orgullosamente Colombiano.**
+* <img src="https://img.icons8.com/color/48/colombia.png" width="18" height="15"> **Orgullosamente Colombiano.**
 * 🎓 Actualmente cursando **3er semestre** de Ingeniería de Software en la **UdeC**.
-* 🐍 Especializándome en **Python** y desarrollo de interfaces con **Tkinter**.
-* 🤝 Abierto a colaborar en proyectos desafiantes y oportunidades laborales.
-* 📁 Subiendo progresivamente mis proyectos para fortalecer mi portafolio.
-* 💬 Puedo orientarte en: **POO, Tkinter** y lógica para transicionar a **Flutter**.
+* 🐍 Especialista en **Python**, interfaces con **Tkinter** y **Flet**.
+* 🤖 **Experto en Automatización**: Uso **GitHub Actions** para mis estadísticas.
+* 🛠️ **Dominio de Git & GitHub**: Gestión de flujos de trabajo y despliegues.
+* 🤝 **Abierto a colaborar** en proyectos de **POO** y retos de software.
+* 💬 **Puedo orientarte en**: Python moderno y lógica para **Flutter**.
 
 <br clear="right">
 
