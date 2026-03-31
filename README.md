@@ -86,7 +86,6 @@
 
 <p align="center">
   <img src="./assets/streak.svg" width="43.7%"/>
-  
   <img src="./assets/langs.svg" width="45%" />
 </p>
 
