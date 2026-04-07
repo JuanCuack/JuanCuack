@@ -72,11 +72,12 @@
 ### 🧠 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/JuanCuack/CodeShift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanCuack&repo=CodeShift&theme=tokyonight&show_icons=true&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" width="400" /></a>
-  <a href="https://github.com/JuanCuack/DarkQuiz-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanCuack&repo=DarkQuiz-Engine&theme=tokyonight&show_icons=true&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" width="400" /></a>
+  <a href="https://github.com/JuanCuack/CodeShift"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCuack&repo=CodeShift&theme=tokyonight&show_icons=true&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" width="380" /></a>&nbsp;
+  <a href="https://github.com/JuanCuack/DarkQuiz-Engine"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCuack&repo=DarkQuiz-Engine&theme=tokyonight&show_icons=true&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" width="380" /></a>
 </div>
+
 <div align="center">
-  <a href="https://github.com/JuanCuack/Horarius"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanCuack&repo=Horarius&theme=tokyonight&show_icons=true&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" width="400" /></a>
+  <a href="https://github.com/JuanCuack/Horarius"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCuack&repo=Horarius&theme=tokyonight&show_icons=true&title_color=11eeff&icon_color=ff9f43&bg_color=1a1b27" width="380" /></a>
 </div>
 
 ---
