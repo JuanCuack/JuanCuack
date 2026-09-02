@@ -16,7 +16,7 @@
 
 <img src="https://images.steamusercontent.com/ugc/2421319307286993522/DBCDE752917E8703B62A2C1AFE7B337CB1CD14FD/" align="right" width="270" style="margin-left: 20px;">
 
-* 🇨🇴 **Orgullosamente Colombiano.**
+* <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/co.svg" width="20" style="vertical-align: middle;"> **Orgullosamente Colombiano.**
 * 🎓 Estudiante de **Ingeniería de Software en la UdeC**.
 * 🧠 **Filosofía**: Enfoque agnóstico al lenguaje; la prioridad es la arquitectura limpia y resolver el problema con la mejor herramienta.
 * 🛠️ **Áreas de Trabajo**: Interfaces modernas con **Flet** y Desktop, backend modular y scripts de automatización.
