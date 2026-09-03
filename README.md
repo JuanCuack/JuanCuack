@@ -80,12 +80,12 @@
 <h2 align="center">👾 GitHub</h2>
 
 <p align="center">
-  <img src="./assets/streak.svg" width="43.7%"/>
-  <img src="./assets/languages.svg" width="41.5%" />
+  <img src="./assets/statistics.svg" width="51.1%" />&nbsp;
+  <img src="./assets/languages.svg" width="31.2%" />
 </p>
 
 <p align="center">
-  <img src="./assets/statistics.svg" width="85.5%" />
+  <img src="./assets/streak.svg" width="82.8%" />
 </p>
 
 <p align="center">
