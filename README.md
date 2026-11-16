@@ -80,8 +80,8 @@
 <h2 align="center">👾 GitHub</h2>
 
 <p align="center">
-  <img src="./assets/statistics.svg" width="51.1%" />&nbsp;
-  <img src="./assets/languages.svg" width="31.2%" />
+  <img src="./assets/statistics.svg" width="57.2%" />&nbsp;
+  <img src="./assets/languages.svg" width="25.1%" />
 </p>
 
 <p align="center">
